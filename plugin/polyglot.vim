@@ -100,5 +100,4 @@ fun! PolyglotGet() "{{{
 endfunction "}}}
 
 command! Polyglot call PolyglotGet()
-
-nmap <silent> co :Polyglot<CR>
+nmap <silent> <Plug>Polyglot :Polyglot<CR>
