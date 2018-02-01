@@ -1,5 +1,7 @@
 # polyglot-vim
 
+[![Build Status](https://travis-ci.org/vmchale/polyglot-vim.svg?branch=master)](https://travis-ci.org/vmchale/polyglot-vim)
+
 This is a plugin for counting lines of source code in a project.
 
 ## Installation
