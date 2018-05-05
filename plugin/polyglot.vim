@@ -84,7 +84,7 @@ fun! PolyglotGet() "{{{
 
     call s:ScratchMarkBuffer()
 
-    execute '.!polyglot | ac -s'
+    execute '.!poly -c'
     setl nomodifiable
     
     let size = s:CountVisualLines()
