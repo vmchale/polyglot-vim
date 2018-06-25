@@ -21,7 +21,7 @@ Section 2: Config                                     *PolyglotConfig*
 
 ----------------------------------------------------------------------
 
-                                                       *ClearPolyglot*
+                                                        *PolyglotKeys*
 
 If you would like to bind a key to clear error messages use something
 like the following in your .vimrc: >
