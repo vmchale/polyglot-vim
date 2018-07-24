@@ -3,6 +3,10 @@ language: python
 cache:
   directories:
     - $HOME/.local/lib
-install: pip install vim-vint
+install:
+    - pip install enum34
+    - pip install typing
+    - pip install pathlib
+    - pip install vim-vint
 script:
   - vint plugin/polyglot.vim
