@@ -8,7 +8,7 @@ This is a plugin for counting lines of source code in a project.
 
 First, install [polyglot](http://github.com/vmchale/polyglot).
 You can then install the vim
-plugin. To do this using [vim-plg](https://github.com/junegunn/vim-plug):
+plugin. To do this using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
 Plug 'vmchale/polyglot-vim'
