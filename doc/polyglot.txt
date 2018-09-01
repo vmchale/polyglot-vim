@@ -23,7 +23,7 @@ Section 2: Config                                     *PolyglotConfig*
 
                                                         *PolyglotKeys*
 
-If you would like to bind a key to clear error messages use something
+If you would like to bind a key to display line counts use something
 like the following in your .vimrc: >
     nmap co <Plug>Polyglot
 <
